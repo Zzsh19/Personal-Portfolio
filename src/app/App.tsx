@@ -7,7 +7,7 @@ type Section = (typeof NAV_ITEMS)[number];
 const EXPERIENCE = [
   {
     company: "Miami Heat",
-    role: "Internet Services Coordinator / Foreign Content Producer & Distributor",
+    role: "Foreign Content Manager/Producer",
     period: "Oct 2016 — Present",
     location: "Miami, FL",
     description:
