@@ -129,7 +129,7 @@ export default function App() {
                 Zhong
               </h1>
               <p className="text-sm text-muted-foreground uppercase tracking-widest mt-3">
-                Content Producer & Digital Media
+                Digital Content Creator& Marketing Specialist
               </p>
               <div className="flex items-center gap-1.5 mt-2 text-muted-foreground text-xs">
                 <MapPin size={12} />
