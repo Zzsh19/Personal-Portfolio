@@ -205,7 +205,7 @@ export default function App() {
                   media strategy, and public relations for a premier professional sports organization.
                 </p>
                 <p>
-                  Currently at <span className="text-foreground font-medium">Miami HEAT</span>,
+                  Experience at <span className="text-foreground font-medium">Miami HEAT</span>,
                   where I manage the team's global brand presence across Chinese digital platforms,
                   driving international audience growth on Douyin and Weibo.
                 </p>
